@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orestis</h1>
+**Digital Craftsman**
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
 - 🌱 I’m currently learning **python and java**

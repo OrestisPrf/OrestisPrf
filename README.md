@@ -3,7 +3,7 @@
 
 - 🌱 **Professional Statement**
 
-I am a **cybersecurity professional** dedicated to identifying vulnerabilities and constantly expanding my knowledge in this ever-evolving field. With strengths in **networking**, **communication**, **Microsoft Defender**, and **programming**, I bring a skill set that’s valuable for **protecting people** and **organizations**. I’m passionate about leveraging my expertise to support security goals and meet the needs of **
+I am a **cybersecurity professional** dedicated to identifying vulnerabilities and constantly expanding my knowledge in this ever-evolving field. With strengths in **networking**, **communication**, **Microsoft Defender**, and **programming**, I bring a skill set that’s valuable for **protecting people** and **organizations**. I’m passionate about leveraging my expertise to support security goals and meet the needs of **cybersecurity recruiters** looking for professionals committed to safeguarding digital environments.
 
 
 - 📫 How to reach me **orestishxh@gmail.com**

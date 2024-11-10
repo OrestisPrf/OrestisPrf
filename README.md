@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Orestis</h1>
-<h3 align="center">A passionate software developer from Greece</h3>
+<h3 align="center">A CyberSecurity enthusiasts</h3>
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 **Professional Statement**
+
+I am a **cybersecurity professional** dedicated to identifying vulnerabilities and constantly expanding my knowledge in this ever-evolving field. With strengths in **networking**, **communication**, **Microsoft Defender**, and **programming**, I bring a skill set that’s valuable for **protecting people** and **organizations**. I’m passionate about leveraging my expertise to support security goals and meet the needs of **
+
 
 - 📫 How to reach me **orestishxh@gmail.com**
 
